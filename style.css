@@ -1,0 +1,64 @@
+
+h1 {
+	color: royalblue;
+	font-family: roboto;
+    background-color: whitesmoke;
+	text-align: center;
+	font-size: 64px;
+}
+
+img{
+	align-self: center;
+	width: 300px;
+    border-radius: 25%
+}
+
+H2{
+	color: royalblue;
+	font-family: roboto;
+    background-color: whitesmoke;
+}
+
+a{
+	margin: 10px auto;
+	width: 30%;
+	padding: 6px;
+    text-align: center;
+	text-decoration: none;
+	background-color: royalblue;
+	border-radius: 5px;
+	color: whitesmoke;
+	border: 2px solid whitesmoke;
+	box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 75);
+	font-family: initial;
+}
+
+#BlueButton:hover {
+	color: whitesmoke;
+	background-color: lightblue;
+}
+
+#BlueButton:hover {
+	color: whitesmoke;
+	background-color: lightblue;
+}
+
+div{
+	background-color: floralwhite;
+	border-radius: 8px;
+	display: flex;
+	flex-direction: column;
+	margin: 20px auto;
+	width: 600px; 
+	box-shadow: 4px 4px 2px 0px rgba(0, 0, 0, 7);
+}
+.container {
+	background-color: floralwhite;
+	border-radius: 8px;
+	display: flex;
+	flex-direction: column;
+	margin: 20px auto;
+	width: 600px; 
+	box-shadow: 4px 4px 2px 0px rgba(0, 0, 0, 7);
+}
+
